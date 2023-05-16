@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jian Jiao jianjiao@gmail.com
 
 # THANKS
 
